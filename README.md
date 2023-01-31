@@ -1,13 +1,29 @@
 ### Hello 👋 👷 
 📡 I’m currently looking **junior developer** position. I've completed 💪 12-month Full Stack development course at [Codecool](https://codecool.com/en/)
 
+🔨 I'm currently working on Viva La Carte (final project from Codecool)
+
 💻 I’m currently learning .NET Full Stack developer skills on Codecademy. 
+
+### Front-End Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
+
+### Back-End Skills
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,docker,postgres)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,git,ps,ai,)](https://skillicons.dev)
+
+### Next to learn:
+[![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piotrpalacz&theme=tokyonight&layout=compact)](https://github.com/piotrpalacz/github-readme-stats)
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/piotrpalacz/my-stack)
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/piotr-palacz-6ab556197)
+#### You can connect with me on:
+[![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/piotr-palacz-6ab556197))
 
 ### Mentor Opinion from Codecool
 
