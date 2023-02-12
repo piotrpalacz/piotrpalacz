@@ -1,7 +1,7 @@
 ### Hello 👋 👷 
 📡 I’m currently looking **junior developer** position. I've completed 💪 12-month Full Stack development course at [Codecool](https://codecool.com/en/)
 
-🔨 I'm currently working on Viva La Carte (final project from Codecool)
+🔨 I'm currently working on Recipes Finder project, where you can serach recipes using external Edamam API. I 💙 to work with API 🙂 but Rome wasn't built in a day.
 
 💻 I’m currently learning .NET Full Stack developer skills on Codecademy. 
 
