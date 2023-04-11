@@ -1,9 +1,10 @@
 ### Hello 👋 👷 
 📡 I’m currently looking **junior developer** position. I've completed 💪 12-month Full Stack development course at [Codecool](https://codecool.com/en/)
 
-🔨 I'm currently working on Recipes Finder project, where you can serach recipes using external Edamam API. I 💙 to work with API 🙂 but Rome wasn't built in a day.
+🔨 I'm currently working on Coincever project in React. This is the project based on tracking and checking the price of cryptocurrency.
 
-💻 I’m currently learning .NET Full Stack developer skills on Codecademy. 
+### 💻 I’m currently learning React JS
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 ### Front-End Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
