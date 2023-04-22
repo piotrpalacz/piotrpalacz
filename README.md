@@ -1,8 +1,7 @@
 ### Hello 👋 👷 
-📡 I’m currently looking **junior developer** position. I've completed 💪 12-month Full Stack development course at [Codecool](https://codecool.com/en/)
+📡 I’m currently looking **junior developer** position. I've completed 💪 12-month Full Stack development course at [Codecool](https://codecool.com/en/) which prepared me to work in programming environment. I work hard every day to become a software developer and I love to work in team. 
 
-🔨 I'm currently working on Coincever project in React. This is the project based on tracking and checking the price of cryptocurrency.
-
+🔨 I'm currently working on Coincever project in React. [LINK HERE](https://github.com/piotrpalacz/coincever)
 ### 💻 I’m currently learning React JS
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
