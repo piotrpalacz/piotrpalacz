@@ -1,9 +1,17 @@
-### Hello 👋 👷 
-📡 I’m currently looking **junior developer** position. I've completed 💪 12-month Full Stack development course at [Codecool](https://codecool.com/en/) which prepared me to work in programming environment. I work hard every day to become a software developer and I love to work in team. 
+# Welcome to my Github Profile 👋 👷 
 
-🔨 I'm currently working on Coincever project in React. [LINK HERE](https://github.com/piotrpalacz/coincever)
-### 💻 I’m currently learning React JS
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+### About Me
+Hey there! I'm Piotr (Peter), and I'm excited to embark on my journey as a Junior Frontend Developer. I have a strong passion for creating visually appealing and interactive web experiences that engage users and leave a lasting impression. I'm constantly seeking opportunities to learn and grow in the ever-evolving world of frontend development.
+
+## 🔨 I'm currently working on Tenant Talks project in ReactJS. [LINK HERE](https://github.com/abenteuerzeit/tenant-talk)
+## 💻 I’m currently learning React JS and Tailwind CSS
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
+
+## Projects
+
+Here on my GitHub, you'll find a collection of projects that showcase my skills and growth as a frontend developer. I've worked on various personal projects. I believe in constantly challenging myself and exploring new technologies to deliver innovative and user-friendly solutions.
+
+
 
 ### Front-End Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
