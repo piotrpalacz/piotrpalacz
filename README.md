@@ -14,16 +14,16 @@ Here on my GitHub, you'll find a collection of projects that showcase my skills 
 
 
 ### Front-End Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind)](https://skillicons.dev)
 
 ### Back-End Skills
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,docker,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs, mongodb)](https://skillicons.dev)
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,git,ps,ai,)](https://skillicons.dev)
 
 ### Next to learn:
-[![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piotrpalacz&theme=tokyonight&layout=compact)](https://github.com/piotrpalacz/github-readme-stats)
