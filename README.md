@@ -17,10 +17,10 @@ Here on my GitHub, you'll find a collection of projects that showcase my skills 
 [![My Skills](https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind)](https://skillicons.dev)
 
 ### Back-End Skills
-[![My Skills](https://skillicons.dev/icons?i=express,nodejs, mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,mongodb)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,git,ps,ai,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,git,ps,ai,figma)](https://skillicons.dev)
 
 ### Next to learn:
 [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
