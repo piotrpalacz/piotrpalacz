@@ -1,11 +1,11 @@
-# Welcome to my Github Profile 👋 👷 
+# Jr. Frontend Developer 
 
 ### About Me
-Hey there! I'm Piotr (Peter), and I'm excited to embark on my journey as a Junior Frontend Developer. I have a strong passion for creating visually appealing and interactive web experiences that engage users and leave a lasting impression. I'm constantly seeking opportunities to learn and grow in the ever-evolving world of frontend development.
+Hey there! I'm Piotr (Peter), and I'm excited to embark on my journey as a Frontend Developer. I have a strong passion for creating visually appealing and interactive web experiences that engage users and leave a lasting impression. I'm constantly seeking opportunities to learn and grow in the ever-evolving world of frontend development.
 
 ## 🔨 I'm currently working on Tenant Talks project in ReactJS. [LINK HERE](https://github.com/abenteuerzeit/tenant-talk)
-## 💻 I’m currently learning React JS and Tailwind CSS
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
+## 💻 I’m currently learning MERN stack technology with state managment in Redux
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,redux)](https://skillicons.dev)
 
 ## Projects
 
